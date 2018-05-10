@@ -4,6 +4,6 @@ module.exports = async message => {
   console.dir(message);
 
   return {
-    response: "Hello returned"
+    response: "Hello returned!"
   };
 }
